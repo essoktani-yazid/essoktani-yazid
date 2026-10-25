@@ -60,17 +60,6 @@
     <img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,maven,figma,postman" />
   </a>
 </div>
-
----
-
-### Expériences & Projets Récents
-
-- **Assistant IA Multimodal (BU Mohamed Sekkat)** : Conception d'une architecture RAG avec recherche sémantique (FAISS, Transformers, Python, FastAPI) pour les usagers de la bibliothèque.
-- **Système de Gestion ISTA Berkane** : Développement et déploiement d'une application administrative complète, avec migration d'une stack legacy vers React et Laravel.
-- **[StoreSmartly](https://storesmartly.shop)** : Plateforme SaaS de gestion de stock intelligente avec authentification JWT, scan de codes-barres et facturation automatique (React, Laravel, MySQL).
-- **[Recetabella](https://recetabella.com)** : Développement d'un thème WordPress sur mesure avec animations fluides et gestion native de newsletters.
-- **Suite Médicale Digitale** : Écosystème applicatif (Next.js/React vers Laravel Blade) pour un cabinet médical, incluant un panel d'administration complet.
-- **Orient Smart** : Plateforme E-commerce sécurisée intégrant l'API Stripe pour la gestion des transactions (Laravel, MySQL).
 <br/>
 
 <div align="center">
